@@ -1,1 +1,1 @@
-console.log("Hello world from javascripts!")
+console.log("script.js loaded successfully!")
