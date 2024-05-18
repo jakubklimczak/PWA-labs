@@ -24,7 +24,11 @@ p {
 }
 
 header {
+<<<<<<< Updated upstream
     background-color: #007bff;
+=======
+    background-color: yellow;
+>>>>>>> Stashed changes
     color: white;
     padding: 10px;
     display: flex;
