@@ -11,7 +11,7 @@ const login = () => {
     const password = document.getElementById('password').value;
 
     // Tutaj można dodać logikę walidacji użytkownika
-    if (username === 'admin' && password === 'password') {
+    if (username === 'admin' && password === 'haslo') {
         localStorage.setItem('loggedIn', 'true');
         showDashboard();
     } else {
